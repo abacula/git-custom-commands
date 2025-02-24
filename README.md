@@ -18,3 +18,7 @@ run in new terminal:
     git config --global alias.yoink "C:<whatever>/git-custom-commands/yoink.cmd"
 
 yeet and yoink in windows
+
+*Mac:*
+
+idk my bff jill
