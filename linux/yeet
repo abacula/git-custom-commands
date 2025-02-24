@@ -1,0 +1,14 @@
+#!/bin/sh
+message=$1
+
+if [ ! -z "$1"]
+then
+    git add . -f
+    git commit -m "$message"
+    git push origin main
+else
+    git add . -f
+    git commit -m "update"
+    git push origin main
+fi
+
