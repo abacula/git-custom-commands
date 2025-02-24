@@ -1,5 +1,8 @@
 *Linux:*
 
+- chmod +x yeet
+- chmod +x yoink
+
 - add to a shell file:
     - export PATH=$PATH:/<whatever>/git-custom-commands/linux
     
